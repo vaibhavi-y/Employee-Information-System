@@ -4,9 +4,13 @@ The Employee Management System Project is a straightforward Python project that 
 
 # Table of Contents
 Overview
+
 Classes
+
 Employee
+
 EmployeesManager
+
 FrontendManager
 
 ## Overview
