@@ -33,6 +33,8 @@ Modifying the salary of an employee based on their name.
 The FrontendManager class acts as the interface for users to interact with the EmployeesManager. It allows users to:
 
 Add new employees.
+
 View the list of existing employees.
+
 Remove employees based on a specified age range.
 Update employee salaries using their name.
